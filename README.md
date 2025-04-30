@@ -1,5 +1,4 @@
 # Atlanta-BSA-Scraper
-# Scrape Events BSA - Project README
 
 This project scrapes event information from three different sources:
 - Silver Comet District Website
